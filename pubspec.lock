@@ -100,6 +100,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.6.3"
+  juru_library:
+    dependency: "direct main"
+    description:
+      path: "D:\\local_repo\\juru_library"
+      relative: false
+    source: path
+    version: "0.0.1"
   lints:
     dependency: transitive
     description:
